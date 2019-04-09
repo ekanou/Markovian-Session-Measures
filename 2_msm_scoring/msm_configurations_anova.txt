@@ -1,0 +1,21 @@
+{
+'MsM_fwd_imp_down': [0.6, 0.0, 0.1, 0.3],
+'MsM_fwd_imp_bal': [0.35, 0.0, 0.35, 0.3],
+'MsM_fwd_imp_reform': [0.1, 0.0, 0.6, 0.3],
+'MsM_fwd_bal_down': [0.8, 0.0, 0.1, 0.1],
+'MsM_fwd_bal_bal': [0.45, 0.0, 0.45, 0.1],
+'MsM_fwd_bal_reform': [0.1, 0.0, 0.8, 0.1],
+'MsM_fwd_pat_down': [0.9, 0.0, 0.09, 0.01],
+'MsM_fwd_pat_bal': [0.5, 0.0, 0.49, 0.01],
+'MsM_fwd_pat_reform': [0.1, 0.0, 0.89, 0.01],
+'MsM_bck_imp_down': [0.5, 0.1, 0.1, 0.3],
+'MsM_bck_imp_bal': [0.3, 0.1, 0.3, 0.3],
+'MsM_bck_imp_reform': [0.1, 0.1, 0.5, 0.3],
+'MsM_bck_bal_down': [0.7, 0.1, 0.1, 0.1],
+'MsM_bck_bal_bal': [0.4, 0.1, 0.4, 0.1],
+'MsM_bck_bal_reform': [0.1, 0.1, 0.7, 0.1],
+'MsM_bck_pat_down': [0.8, 0.1, 0.09, 0.01],
+'MsM_bck_pat_bal': [0.45, 0.1, 0.44, 0.01],
+'MsM_bck_pat_reform': [0.1, 0.1, 0.79, 0.01],
+'MsM_yandex_log': [0.61, 0.11, 0.27, 0.11]
+}
