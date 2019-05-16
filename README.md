@@ -41,16 +41,11 @@ www.trec-dd.org
 
 ### Setup ###
 Code and run scripts are divided into the following folders: 
-1_scoring             (Score runs/generate data for MsM measures)  
-2_matlab_msm    (MsM measures)  
-2_msm_scoring   (Score MsM configurations)  
-3_evaluation        (Correlation - Kendall's Tau / Variance - Anova)  
-9_data                 (Runs/measurements/MsM input) 
-
-To reproduce the results run the scripts in the order of the folders
+- matlab_msm    (MsM measures)  
+- msm_scoring   (Score MsM configurations)  
+- scoring       (Score runs/generate data for MsM measures) 
 
 ### Who do I talk to? ###
-
 David van Dijk <d.v.van.dijk@hva.nl>
 Marco Ferrante <ferrante@math.unipd.it>
 Nicola Ferro <ferro@dei.unipd.it> 
