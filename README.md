@@ -17,11 +17,11 @@ proposed measures and the transparency in modeling the user dynamics.
 
 
 ### What is this repository for? ###
-This repository contains the Experiments Code for the paper:
-A Markovian Approach to Evaluate Session-based IR Systems
-van Dijk, D., Ferrante, M., Ferro, N., and Kanoulas, E. (2019)
-Int. Conference Paper In Fuhr, N., Mayr, P., Azzopardi, L., Stein, B., Hauff, C., and Hiemstra, D.
-, editors, Advances in Information Retrieval. Proc. 41st European Conference on IR Research
+This repository contains the Experiments Code for the paper:<br/>
+**A Markovian Approach to Evaluate Session-based IR Systems**<br/>
+van Dijk, D., Ferrante, M., Ferro, N., and Kanoulas, E. (2019)<br/>
+Int. Conference Paper In Fuhr, N., Mayr, P., Azzopardi, L., Stein, B., Hauff, C., and Hiemstra, D.<br/>
+, editors, Advances in Information Retrieval. Proc. 41st European Conference on IR Research<br/>
 (ECIR 2019). Lecture Notes in Computer Science (LNCS), Springer, Heidelberg, Germany
 
 ### Code ###
@@ -46,7 +46,7 @@ Code and run scripts are divided into the following folders:
 - scoring       (Score runs/generate data for MsM measures) 
 
 ### Who do I talk to? ###
-David van Dijk <d.v.van.dijk@hva.nl>
-Marco Ferrante <ferrante@math.unipd.it>
-Nicola Ferro <ferro@dei.unipd.it> 
-Evangelos Kanoulas <e.kanoulas@uva.nl>
+David van Dijk <d.v.van.dijk@hva.nl><br/>
+Marco Ferrante <ferrante@math.unipd.it><br/>
+Nicola Ferro <ferro@dei.unipd.it><br/>
+Evangelos Kanoulas <e.kanoulas@uva.nl><br/>
